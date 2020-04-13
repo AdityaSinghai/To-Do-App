@@ -1,6 +1,6 @@
 # Todo-App
 
-A new Flutter application.
+It is a simple application in which users can enter thir to-do's and check if completed and/or delete their to-do(s).
 
 ## About the app:
 It has the following features:
